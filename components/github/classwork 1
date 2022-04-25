@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<head>
+    <title>share your travels</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <h1>share your travels</h1>
+  <h2>new york-central park</h2>
+  <ul>
+      <li><a href="#description">Description</li>
+        <li><a href="#related travels">related travels</li>
+            <li><a href="#review">review</a></li>
+  </ul> 
+  <h4 id="description"></h4>
+  <p>photo by reddy</p>
+  <p>this location from <a href="#">central</a><a href='#' 0></a>new york city </a> on october 10,2011</p>
+    <img src="images/central.jpg"alt="central" class="cp"><br>
+    <i class="cp">conservatory panel in central park</i>
+     <p>share:</p>
+    <img src="images/social.png" width="100px;"height="100px">
+
+</body>
